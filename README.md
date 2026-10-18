@@ -117,7 +117,7 @@ Have an interesting idea, want to collaborate, or just want to talk tech? Feel f
 </p>
 
 <p align="center">
-  <i>"Great things are built one iteration at a time."</i>
+  <i>"To live is to suffer, to survive is to find meaning in the suffering"</i>
 </p>
 
 <p align="center">
